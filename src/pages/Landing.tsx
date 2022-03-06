@@ -1,10 +1,10 @@
-import "../App.css";
+import "../styles/Landing.css";
 import Spacer from "../components/Spacer";
 
 function Landing() {
   return (
     <div id="content">
-      <div style={{ marginTop: "15%", marginLeft: "10%" }}>
+      <div id="text">
         <p id="heading">
           taskr.live is
           <br />

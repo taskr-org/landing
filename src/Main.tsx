@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "./styles/Main.css";
 import Landing from "./pages/Landing";
 
 ReactDOM.render(

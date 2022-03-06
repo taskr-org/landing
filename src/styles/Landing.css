@@ -37,3 +37,8 @@ body {
   color: white;
   margin: 0;
 }
+
+#text {
+  margin-top: 15%;
+  margin-left: 10%;
+}
